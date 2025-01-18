@@ -7,6 +7,13 @@
 This project focuses on analyzing the crop production data from India. The dataset contains information on crop production across various states and districts from the year 1997 to 2015. It includes key details such as crop type, area, production, and season.<br> 
 The goal of this project is to provide insights into agricultural trends, production patterns, and the seasonal distribution of crop yields.
 
+## Build With
+Technology: Python <br>
+Libraries: Numpy, Pandas, Matplotlib, and Seaborn
+
+## Dataset Used
+![Dataset](https://www.kaggle.com/datasets/abhinand05/crop-production-in-india?select=crop_production.csv)
+
 ## Key Insights
 - **Yearly Growth**: Trends in crop production over the years, highlighting peak production years.
 - **Seasonality**: Comparison of crop production across different seasons.
