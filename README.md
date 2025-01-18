@@ -18,11 +18,11 @@ The goal of this project is to provide insights into agricultural trends, produc
 [get the dataset here](https://www.kaggle.com/datasets/abhinand05/crop-production-in-india?select=crop_production.csv)
 
 ## Key Insights
-- **Yearly Growth**: Trends in crop production over the years, highlighting peak production years.
-- **Seasonality**: Comparison of crop production across different seasons.
-- **Top Performing States and Crops**: Identification of states with the highest average crop production and the most produced crops.
-- **Crop Analysis**: Detailed analysis of specific crops such as Rice, Maize, and others, across various states.
-- **Area vs. Production**: Exploring the relationship between the area cultivated and the total crop production.
+- **Seasonality**: Whole Year crops dominate production, followed by Kharif and Rabi seasons.
+- **Top States**: Kerala leads in rice production, while Karnataka excels in maize.
+- **Top Crops**: Rice and Maize are the most cultivated and produced crops.
+- **Area vs. Production**: Higher cultivated areas generally yield greater production.
+- **Districts**: Karimnagar and Davangere account for 45% of maize production.
 
 ## Conclusion
 
