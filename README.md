@@ -1,5 +1,7 @@
 # Crop Production in India
 
+<img src = "https://journalsofindia.com/wp-content/uploads/2021/02/Cropping-Systems-in-India-750x375.jpg" height="340" width= "990">
+
 This project focuses on analyzing the crop production data from India. The dataset contains information on crop production across various states and districts from the year 1997 to 2015. It includes key details such as crop type, area, production, and season. The goal of this project is to provide insights into agricultural trends, production patterns, and the seasonal distribution of crop yields.
 
 ## Key Insights
