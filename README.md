@@ -35,4 +35,4 @@ The goal of this project is to provide insights into agricultural trends, produc
 
 ## Conclusion
 
-This analysis provides valuable insights into India's crop production patterns, helping to identify trends in agricultural productivity. It also highlights which states are leading in various crops, allowing for more targeted agricultural policy and decision-making.
+This analysis provides valuable insights into India's crop production patterns, helping to identify trends in agricultural productivity.<br> It also highlights which states are leading in various crops, allowing for more targeted agricultural policy and decision-making.
