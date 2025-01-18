@@ -21,10 +21,6 @@ Libraries: Numpy, Pandas, Matplotlib, and Seaborn
 - **Crop Analysis**: Detailed analysis of specific crops such as Rice, Maize, and others, across various states.
 - **Area vs. Production**: Exploring the relationship between the area cultivated and the total crop production.
 
-
-
-
-
 ## Conclusion
 
 This analysis provides valuable insights into India's crop production patterns, helping to identify trends in agricultural productivity. It also highlights which states are leading in various crops, allowing for more targeted agricultural policy and decision-making.
