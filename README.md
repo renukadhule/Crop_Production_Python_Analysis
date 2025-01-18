@@ -1,4 +1,4 @@
-# Crop Production in India
+# Crop Production in India🌾
 
 <img src = "https://journalsofindia.com/wp-content/uploads/2021/02/Cropping-Systems-in-India-750x375.jpg" height="340" width= "990">
 
@@ -8,8 +8,11 @@ This project focuses on analyzing the crop production data from India. The datas
 The goal of this project is to provide insights into agricultural trends, production patterns, and the seasonal distribution of crop yields.
 
 ## Build With
-Technology: Python <br>
-Libraries: Numpy, Pandas, Matplotlib, and Seaborn
+**Programming Language**: Python <br>
+**Libraries**:
+- **Numpy**: Numerical computations
+- **Pandas**: Data cleaning and manipulation
+- **Matplotlib & Seaborn**: Data visualization
 
 ## Dataset Used
 [get the dataset here](https://www.kaggle.com/datasets/abhinand05/crop-production-in-india?select=crop_production.csv)
